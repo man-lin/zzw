@@ -1,0 +1,18 @@
+﻿body {margin:0 auto; font-size:12px; font-family: Helvetica, Tahoma, Arial, sans-serif; font-weight:normal;}
+ul, ul li, p{margin:0; padding:0; list-style:none;}
+img { border:none;}
+.mainbody{width:800px; margin:0 auto;}
+
+.reg_content{width:800px; overflow:hidden; padding:0; text-align:center;}
+.con_title{width:auto; height:30px; padding:20px 0 10px 5px;}
+.con_main{border:1px solid #ccc; border-radius: 5px; padding-bottom:0px; text-align:left; margin:0 20px;background-color:#fff;}
+.con_main .con_main_title{height:40px; padding:0px 0px 10px 0px; background-color:#61a4d9;}
+.con_main .table{padding:20px 30px; font-size:14px;}
+.con_main .table table tr td{padding:5px 3px; height:18px; line-height:18px; text-align:left;}
+.con_main .table table tr td.right{text-align:right; padding-top:6px;}
+.con_main .table table tr td dfn{color:#f00; padding-right:5px; font-style:normal;}
+.con_main div.input{width:auto; height:31px; }
+.con_main div.tip{width:auto; height:27px; color:#666; font-size:12px;}
+
+.Button1{border-radius: 5px;}
+.Message{font-size:12px;}
